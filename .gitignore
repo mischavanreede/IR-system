@@ -1,4 +1,5 @@
 .ipynb_checkpoints/
-IMDB-Movie-Data.csv
 WP-corpus/
 indexdir/
+debug.log
+results.txt
